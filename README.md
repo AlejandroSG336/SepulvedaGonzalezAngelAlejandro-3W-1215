@@ -7,6 +7,7 @@ Good luck!
 ![image](https://github.com/user-attachments/assets/e09e7d5d-fcb2-4799-a116-94ecb79c99c2)
 
 # 2-
+
 print("")
 
 print("sepulveda gonzalez angel alejandro,3W,1215")
@@ -23,6 +24,7 @@ print(f.read())
 ![image](https://github.com/user-attachments/assets/0d7247bb-b6eb-44da-859b-9742cd5767bd)
 
 #3-
+
 print("")
 
 print("sepulveda gonzalez angel alejandro,3W,1215")
@@ -39,6 +41,7 @@ print(f.read())
 ![image](https://github.com/user-attachments/assets/dc976d23-f202-466e-8e26-aa4479f6ff5d)
 
 #4-
+
 print("")
 
 print("sepulveda gonzalez angel alejandro,3W,1215")
@@ -55,6 +58,7 @@ print(f.read(5))
 ![image](https://github.com/user-attachments/assets/2711369f-2811-45b5-8850-161cafe08b70)
 
 #5-
+
 print("")
 
 print("sepulveda gonzalez angel alejandro,3W,1215")
@@ -77,6 +81,7 @@ print(f.read())
 ![image](https://github.com/user-attachments/assets/afde8249-383d-4e05-a3c9-ee7122915742)
 
 #6-
+
 print("")
 
 print("sepulveda gonzalez angel alejandro,3W,1215")
@@ -99,6 +104,7 @@ print(f.read())
 ![image](https://github.com/user-attachments/assets/060b0ee8-aa3a-4f3e-9398-c9acf0111aef)
 
 #7 y 8-
+
 print("")
 
 print("sepulveda gonzalez angel alejandro,3W,1215")
@@ -114,6 +120,7 @@ f=open("texto.txt","x")
 ![image](https://github.com/user-attachments/assets/30908e9a-7b06-4656-8a3c-22620b16e201)
 
 #9-
+
 print("")
 
 print("sepulveda gonzalez angel alejandro,3W,1215")
